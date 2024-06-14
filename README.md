@@ -2,7 +2,7 @@
 
 :construction: This repository is still under construction and more features will be added soon. :construction:
 
-Welcome to the official repository for the paper "Fusion between an Algorithm Based on the Characterization of Melanocytic Lesions' Asymmetry with an Ensemble of Convolutional Neural Networks for Melanoma Detection".
+Welcome to the official repository for the paper ["Fusion between an Algorithm Based on the Characterization of Melanocytic Lesions' Asymmetry with an Ensemble of Convolutional Neural Networks for Melanoma Detection"](https://www.jidonline.org/article/S0022-202X(24)00078-2/fulltext).
 
 ![lafiguredelarticle](https://github.com/JulesCollenne/MelanomaAsymmetry/assets/43369571/88b40f22-6041-4de6-a769-54d38384de2d)
 
